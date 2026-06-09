@@ -88,11 +88,9 @@ Identify profitable customer segments.
 Monitor claim severity patterns.
 Enhance decision-making through data insights.
 
+https://github.com/sayyadbasha414/Insurance-Claims-Analytics-PowerBI/blob/main/Insurance%20Claim%20Dashbaord.png
+
 
 👨‍💻 Author
 Sayyad Basha
-Power BI Developer | Business Intelligence Analyst
-
-Sayyad Basha
-
 Power BI Developer | Business Intelligence Analyst
